@@ -1,3 +1,0 @@
-([('frontend',
-   '/Users/cristinagradinaru/Desktop/python-flask-udemy-course/tkinter/BookStore/dist/frontend',
-   'EXECUTABLE')],)
